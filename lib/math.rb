@@ -1,7 +1,8 @@
 def addition
- puts 5 + 4
+  a = 5
+  b = 4
+ puts a + b
 end
-addition
 
 def subtraction(num1, num2)
 
