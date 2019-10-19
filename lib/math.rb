@@ -1,4 +1,3 @@
-class Math
 def addition(num1, num2)
  puts 5 + 4
 end
