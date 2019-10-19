@@ -1,7 +1,7 @@
 def addition
   a = 5
   b = 4
- puts a + b
+ p a + b
 end
 
 def subtraction(num1, num2)
