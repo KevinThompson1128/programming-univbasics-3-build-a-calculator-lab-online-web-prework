@@ -1,7 +1,5 @@
-def addition
-  a = 5
-  b = 4
- p a + b
+def addition(num1, num2)
+ 
 end
 
 def subtraction(num1, num2)
